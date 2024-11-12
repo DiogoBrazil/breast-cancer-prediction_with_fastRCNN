@@ -105,7 +105,7 @@ O dataset consiste em imagens de mamografia com caixas delimitadoras anotadas in
 
    - Defina o número de classes (incluindo fundo):
      ```python
-     num_classes = 2  # 1 classe (nódulo) + 1 para fundo
+     num_classes = 3  # incluindo fundo
      ```
 
 3. **Executar o Notebook de Treinamento**:
