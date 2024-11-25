@@ -150,5 +150,5 @@ O modelo Faster R-CNN treinado pode detectar eficazmente nódulos de câncer de 
 - Caixas delimitadoras são desenhadas ao redor dos nódulos detectados com escores de confiança.
 
 ## Autor
-Diogo Brazil  
+Diogo Ribeiro  
 GitHub: [DiogoBrazil](https://github.com/DiogoBrazil)
