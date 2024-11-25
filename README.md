@@ -13,9 +13,6 @@
 - Treinamento do Modelo
 - Teste do Modelo
 - Resultados
-- Trabalhos Futuros
-- Contribuição
-- Licença
 - Autor
 
 ## Introdução
